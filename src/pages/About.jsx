@@ -35,7 +35,7 @@ const About = () => {
               <span className="font-bold">Founded in 1957</span> by
               philanthropist and industrialist late{" "}
               <span className="font-bold">
-                Shri karumuthu Thiagarajan Chettiar
+                Shri Karumuthu Thiagarajan Chettiar
               </span>
 
               , Thiagarajar College of Engineering (TCE) is a Government Aided Institution and affiliated to Anna University and situated in Madurai, the Temple City .The college is funded by Central and State Governments and Management. The courses offered in TCE are approved by the All India Council for Technical Education (AICTE), New Delhi and Council of Architecture (COA), New Delhi. TCE was granted Autonomy in the year 1987 and the programmes have been accredited by the National Board of Accreditation (NBA). TCE offers 9 Undergraduate programmes, 10 Postgraduate programmes and Doctoral programmes in Engineering, Architecture and Science.

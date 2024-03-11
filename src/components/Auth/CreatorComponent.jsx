@@ -20,14 +20,14 @@ const CreatorComponent = ({
 }) => {
   const navigate = useNavigate();
   useEffect(() => {
-    console.log(email);
-    console.log(password);
-    console.log(fullName);
-    console.log(phone);
-    console.log(collegeName);
-    console.log(department);
-    console.log(transactionNumber);
-    console.log(selectedDepartment);
+    // console.log(email);
+    // console.log(password);
+    // console.log(fullName);
+    // console.log(phone);
+    // console.log(collegeName);
+    // console.log(department);
+    // console.log(transactionNumber);
+    // console.log(selectedDepartment);
     api
       .post("auth/signup", {
         email,
