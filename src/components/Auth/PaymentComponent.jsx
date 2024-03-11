@@ -178,7 +178,7 @@ const PaymentComponent = ({
                 sx={{ marginLeft: "10px" }}
                 onClick={() => {
                   window.open(
-                    "https://TELETECH2024.blob.core.windows.net/eventdetails/TELETECH2024Paymentprocess.pdf"
+                    "https://techutsav2024.blob.core.windows.net/eventdetails/Teletech2024Paymentprocess.pdf"
                   );
                 }}
               >
