@@ -81,8 +81,8 @@ const About = () => {
                 </li>
                 <li>
                   Only registered participants are allowed during check in
-                  process and in events. In PAPER PRESENTATION event, each
-                  member is required to complete the Google Form given in the
+                  process and in events. In PAPER PRESENTATION event, teamleader
+                  is required to complete the Google Form given in the
                   events page with accurate information.
                 </li>
                 <li>

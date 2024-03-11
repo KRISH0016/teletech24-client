@@ -20,7 +20,7 @@ const faqs = [
   {
     question: "What are the events we can attend?",
     answer:
-      "You can attend all the Events of the particular department and  can attend workshop irrespective of the department chosen ",
+      "You can attend any one of the Events along with workshop ",
   },
   {
     question: "Will Meals be provided?",
