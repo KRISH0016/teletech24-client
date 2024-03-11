@@ -356,7 +356,7 @@ const Profile = () => {
                   sx={{ marginLeft: "10px" }}
                   onClick={() => {
                     window.open(
-                      "https://techutsav2024.blob.core.windows.net/eventdetails/Techutsav2024Paymentprocess.pdf"
+                      "https://techutsav2024.blob.core.windows.net/eventdetails/Teletech2024Paymentprocess.pdf "
                     );
                   }}
                 >
