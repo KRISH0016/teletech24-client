@@ -187,7 +187,7 @@ const PaymentComponent = ({
             </div>
           </div>
           <div className={`mt-3`}>
-              <p>Kindly fill the below g form <a href="https://forms.gle/dnhud95XaYymA1tH9">https://forms.gle/dnhud95XaYymA1tH9</a></p>
+          <p>Kindly fill the below g form <a href="https://forms.gle/dnhud95XaYymA1tH9" target="_blank">https://forms.gle/dnhud95XaYymA1tH9</a></p>
           </div>
 
           <div className="flex flex-col gap-3 w-full items-center">
