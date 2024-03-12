@@ -24,7 +24,7 @@ const faqs = [
   },
   {
     question: "Will Meals be provided?",
-    answer: "Yes Meals will be provided afternoon (Vegetarian).",
+    answer: "Yes, Meals will be provided afternoon (Vegetarian).",
   },
   {
     question: "Will you provide accomodation for students?",

@@ -186,6 +186,9 @@ const PaymentComponent = ({
               </Button>
             </div>
           </div>
+          <div classname={`mt-3`}>
+                <p>Kindly fill the below g form <link>https://forms.gle/dnhud95XaYymA1tH9</link> </p>
+          </div>
           <div className="flex flex-col gap-3 w-full items-center">
             <div className="flex flex-col gap-3 w-full items-start">
               <label
