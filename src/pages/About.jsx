@@ -58,6 +58,9 @@ const About = () => {
             <p className="tracking-wider leading-8 px-4 lg:pl-9 ">
               <span className="font-bold text-2xl ">GENERAL GUIDELINES</span>
               <ol className="list-decimal">
+              <li>
+                  The registration fee includes Workshop + One Event.
+                </li>
                 <li>
                   The participants are requested to register for TeleTech’24
                   through the website ( QR code provided in the brochure), on or before
