@@ -363,6 +363,9 @@ const Profile = () => {
                   <CloudDownloadIcon />
                 </Button>
               </div>
+              <div classname={`mt-3`}>
+              <p>Kindly fill the below g form <a href="https://forms.gle/dnhud95XaYymA1tH9">https://forms.gle/dnhud95XaYymA1tH9</a></p>
+              </div>
               <div className={`mt-3`}>
                 <p>Please Enter your Transaction Number after Payment</p>
                 <input

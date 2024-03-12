@@ -186,9 +186,10 @@ const PaymentComponent = ({
               </Button>
             </div>
           </div>
-          <div classname={`mt-3`}>
-                <p>Kindly fill the below g form https://forms.gle/dnhud95XaYymA1tH9 </p>
+          <div className={`mt-3`}>
+              <p>Kindly fill the below g form <a href="https://forms.gle/dnhud95XaYymA1tH9">https://forms.gle/dnhud95XaYymA1tH9</a></p>
           </div>
+
           <div className="flex flex-col gap-3 w-full items-center">
             <div className="flex flex-col gap-3 w-full items-start">
               <label
