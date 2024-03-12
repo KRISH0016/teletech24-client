@@ -67,6 +67,9 @@ const About = () => {
                   24th March, 2024.
                 </li>
                 <li>
+                  Registration is open to all departments and to all colleges.
+                </li>
+                <li>
                   Ensure your presence within 8:30 AM to commence the event
                   smoothly.
                 </li>
