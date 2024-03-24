@@ -13,7 +13,7 @@ const Footer = () => {
     <div className="w-full bg-black text-white  flex flex-col overflow-hidden">
       <div className="flex w-full justify-between  md:px-[9rem] md:py-[6rem] px-[3rem] py-[2rem] border-b-2 md:gap-0 gap-7 ">
         <div className="flex flex-col gap-7 ">
-          <h1 className="font-bold tarcking-wider text-xl">TELETECH’ 2024</h1>
+          <h1 className="font-bold tarcking-wider text-xl">TELETEC’ 2024</h1>
           <p className="text-xl">THIAGARAJAR COLLEGE OF ENGINEERING, MADURAI</p>
         </div>
         <div className="">

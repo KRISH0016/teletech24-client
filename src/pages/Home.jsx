@@ -37,16 +37,19 @@ const Home = ({ authenticated }) => {
         <p className=" text-xl lg:text-2xl tracking-wide">
           Department of Electronics and Communication Engineering  
         </p>
-        <p className=" text-xl lg:text-2xl ">
+        <p className=" text-xl lg:text-xl ">
           Presents
         </p>
         <h1 className="font-bold text-[#1c2a73] lg:text-7xl text-4xl tracking-wider">
-          TELETECH'24
+          TELETEC'24
         </h1>
         {/* <h1 className="font-bold lg:text-5xl text-3xl tracking-wider">
           TECHUTSAV’ 2024
         </h1> */}
         <p className="lg:text-4xl text-2xl">On 26th March</p>
+        <p className="font-bold text-[#f53d3d] text-2xl">
+          ON SPOT REGISTRATION AVAILABLE.
+        </p>
         <p className="text-xl">
           Navigating the Future: Connectivity, Innovation and Beyond.
         </p>
@@ -83,7 +86,7 @@ const Home = ({ authenticated }) => {
             </div>
           </div>
         ) : (
-          <div className="flex gap-4 mt-4 sm:mt-8">
+          <div className="flex gap-4 mt-4 sm:mt-2">
             {" "}
             <Link
               to="/register"

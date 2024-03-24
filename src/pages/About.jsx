@@ -46,7 +46,7 @@ const About = () => {
               <Lottie options={defaultOptions} />
             </div>
             <p className="tracking-wider leading-8 px-4 lg:pl-9 lg:w-1/2">
-              <span className="font-bold">TELETECH</span> is a National Level
+              <span className="font-bold">TELETEC</span> is a National Level
               Symposium Conducted by the Department of Electronics and
               Communication Engineering (ECE), featuring flagship events such as
               workshops, hardware/software competitions, and paper
@@ -62,9 +62,9 @@ const About = () => {
                   The registration fee includes Workshop + One Event.
                 </li>
                 <li>
-                  The participants are requested to register for TeleTech’24
+                  The participants are requested to register for TeleTec’24
                   through the website ( QR code provided in the brochure), on or before
-                  24th March, 2024.
+                  25th March, 2024. You can also register on spot.
                 </li>
                 <li>
                   Registration is open to all departments and to all colleges.
@@ -86,8 +86,7 @@ const About = () => {
                   Refreshments.
                 </li>
                 <li>
-                  Only registered participants are allowed during check in
-                  process and in events. In PAPER PRESENTATION event, teamleader
+                  Only registered participants are allowed to participate in events. In PAPER PRESENTATION event, teamleader
                   is required to complete the Google Form given in the
                   events page with accurate information.
                 </li>

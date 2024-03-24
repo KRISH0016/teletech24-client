@@ -14,7 +14,7 @@ const faqs = [
   },
   {
     question: "Can we register on spot?",
-    answer: "No, As of now you cannot register on spot for the events.",
+    answer: "Yes, you can register on spot for the events.",
   },
 
   {
