@@ -76,7 +76,7 @@ export default function MainLoader() {
           </div>
         </div>
 
-        <h1 className="text-4xl sm:text-6xl text-white">TELETECH 2024</h1>
+        <h1 className="text-4xl sm:text-6xl text-white">TELETEC 2024</h1>
       </div>
     </div>
   );
